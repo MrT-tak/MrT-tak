@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning html
 - 💞️ I’m not looking to collaborate now
 - 📫 How to reach me takumikun0730@gmail.com
+- I am in Block by Block dev team.
 
 <!---
 MrT-tak/MrT-tak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
