@@ -5,7 +5,7 @@
 <p> - 🌱 I’m currently learning html</p>
 <p> - 💞️ I’m not looking to collaborate now</p>
 <p> - 📫 You can reach me by <a herf="mailto:takumikun0730@gmail.com" alt="my gmail">takumikun0730@gmail.com(gmail)</a> or <a herf="mailto:takumikun0730@outlook.jp" alt="my outlook">takumikun0730@outlook.jp(outlook)</a>
-<p> - I am in Block by Block dev team.</p>
+<p> - I am in <a herf="https://github.com/Block-by-Block-dev-team">Block by Block dev team.</a></p>
 </p>
 <!---
 MrT-tak/MrT-tak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
