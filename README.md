@@ -1,3 +1,4 @@
+<div class="center"><img src="img.gif"></div>
 - 👋 Hi, I’m @MrT-tak
 - 👀 I’m interested in html, javascript
 - 🌱 I’m currently learning html
