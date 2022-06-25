@@ -3,7 +3,7 @@
   <p>
     <h1>HEY THERE!</h1>
     <p>
-      Check out my website on MrT-tak.github.io or click on <a herf="https://MrT-tak.github.io">here</a>
+      Check out my website on MrT-tak.github.io or click on [here](https://MrT-tak.github.io)
   </p>
   <p> - 👋 Hi, I’m @MrT-tak</p>
   <p> - 👀 I’m interested in html, javascript</p>
