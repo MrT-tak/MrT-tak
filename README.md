@@ -1,10 +1,15 @@
 <div class="center"><img src="img.gif"></div>
 <p>
-<p> - 👋 Hi, I’m @MrT-tak</p>
-<p> - 👀 I’m interested in html, javascript</p>
-<p> - 🌱 I’m currently learning html</p>
-<p> - 💞️ I’m not looking to collaborate now</p>
-<p> - 📫 You can reach me by <a herf="mailto:takumikun0730@gmail.com" alt="my gmail">takumikun0730@gmail.com(gmail)</a> or <a herf="mailto:takumikun0730@outlook.jp" alt="my outlook">takumikun0730@outlook.jp(outlook)</a>
+  <p>
+    <h1>HEY THERE!</h1>
+    <p>
+      Check out my website on MrT-tak.github.io or click on <a herf="https://MrT-tak.github.io">here</a>
+  </p>
+  <p> - 👋 Hi, I’m @MrT-tak</p>
+  <p> - 👀 I’m interested in html, javascript</p>
+  <p> - 🌱 I’m currently learning html</p>
+  <p> - 💞️ I’m not looking to collaborate now</p>
+  <p> - 📫 You can reach me by <a herf="mailto:takumikun0730@gmail.com" alt="my gmail">takumikun0730@gmail.com(gmail)</a> or <a herf="mailto:MrT-tak@outlook.com" alt="my outlook">MrT-tak.outlook.com(outlook)</a>
 <p> - I am in <a herf="https://github.com/Block-by-Block-dev-team">Block by Block dev team.</a></p>
 </p>
 #japanese
