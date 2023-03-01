@@ -15,6 +15,7 @@
 
 ![GitHub User's stars](https://img.shields.io/github/stars/MrT-tak?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/MrT-tak?style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5UkRRhsoya4eJWaMLKzTzw?style=social)
 
 #japanese
 <!---
