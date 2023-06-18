@@ -27,7 +27,7 @@
 
 ![GitHub User's stars](https://img.shields.io/github/stars/MrT-tak?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/MrT-tak?style=social)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5UkRRhsoya4eJWaMLKzTzw?style=social)](https://youtube.com/@MrT_ta?sub_confirmation=1k)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5UkRRhsoya4eJWaMLKzTzw?style=social)](https://youtube.com/@MrT_tak?sub_confirmation=1)
 ---
 [![](https://visitcount.itsvg.in/api?id=MrT-tak&icon=0&color=3)](https://visitcount.itsvg.in)
 
