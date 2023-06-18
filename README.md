@@ -1,4 +1,4 @@
-<div class="center"><img src="img.gif"></div>
+<img src="img.gif" alt="my avator" class="center" width="200"/>
 # 💫 About Me:
 - 👋 Hi, I’m @MrT-tak<br><br>- 👀 I’m interested in HTML, JavaScript and Lua<br><br>- 🌱 I’m currently learning Lua and JavaScript<br><br>- 💞️ I’m not looking to collaborate now<br><br>- 📫 You can reach me by takumikun0730@gmail.com(Gmail) or MrT-tak@outlook.com(outlook)<br><br>- I am in Block by Block dev team.
 
