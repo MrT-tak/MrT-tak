@@ -1,5 +1,3 @@
-<embed src="https://mrt-tak.github.io/ANAB787NoBG">
-
 # 💫 About Me:
 - 👋 Hi, I’m @MrT-tak
 - 👀 I’m interested in HTML, JavaScript and Lua
@@ -36,3 +34,5 @@
 MrT-tak/MrT-tak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![ANA_787_picture](https://s28477.pcdn.co/wp-content/uploads/2017/07/ANA_1.jpg)
