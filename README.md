@@ -1,4 +1,4 @@
-<img src="img.gif" alt="my avator" class="center" width="200"/>
+<embed src="https://mrt-tak.github.io/ANAB787NoBG">
 
 # 💫 About Me:
 - 👋 Hi, I’m @MrT-tak
