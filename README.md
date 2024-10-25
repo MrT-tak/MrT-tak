@@ -1,4 +1,5 @@
 <img src="img.gif" alt="my avator" class="center" width="200"/>
+
 # 💫 About Me:
 - 👋 Hi, I’m @MrT-tak
 - 👀 I’m interested in HTML, JavaScript and Lua
