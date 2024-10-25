@@ -1,6 +1,11 @@
 <img src="img.gif" alt="my avator" class="center" width="200"/>
 # 💫 About Me:
-- 👋 Hi, I’m @MrT-tak<br><br>- 👀 I’m interested in HTML, JavaScript and Lua<br><br>- 🌱 I’m currently learning Lua and JavaScript<br><br>- 💞️ I’m not looking to collaborate now<br><br>- 📫 You can reach me by takumikun0730@gmail.com(Gmail) or MrT-tak@outlook.com(outlook)<br><br>- I am in Block by Block dev team.
+- 👋 Hi, I’m @MrT-tak
+- 👀 I’m interested in HTML, JavaScript and Lua
+- 🌱 I’m currently learning Lua and JavaScript
+- 📫 You can contact me at MrT-tak@outlook.com(outlook)
+- I am in Block by Block dev team.
+- I contribute to many wikis, not at GitHub.
 
 
 ## 🌐 Socials:
@@ -13,17 +18,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MrT-tak&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrT-tak&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MrT-tak&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MrT-tak&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ![GitHub User's stars](https://img.shields.io/github/stars/MrT-tak?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/MrT-tak?style=social)
